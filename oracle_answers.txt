@@ -1,0 +1,2 @@
+1. 
+Pole line_count informuje o ilości przemiotów w danym kartonie konkretnego zamówienia
