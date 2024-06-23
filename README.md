@@ -1,2 +1,2 @@
 Wojciech Nagórka
-C++ task
+C++ and Oralce tasks
